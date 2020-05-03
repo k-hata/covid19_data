@@ -1,4 +1,6 @@
 {
+    "name": "k-hata/covid19_data",
+    "description":"test",
     "require": {
         "phpoffice/phpspreadsheet": "^1.10",
         "nesbot/carbon": "^2.30",
